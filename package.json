@@ -1,5 +1,5 @@
 {
-  "version": "0.0.4",
+  "version": "1.0.0",
   "license": "Mshengu-Tech",
   "types": "./src/index.d.ts",
   "description": "Helpers library for app",
