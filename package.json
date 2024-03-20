@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "Mshengu-Tech",
   "types": "./src/index.d.ts",
   "description": "Helpers library for app",
@@ -19,7 +19,7 @@
   "author": "itumeleng-tshabalala",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Itumeleng-Tshabalala/interface-library.git"
+    "url": "git@https://github.com/Itumeleng-Tshabalala/interface-library.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
